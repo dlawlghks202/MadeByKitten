@@ -3,7 +3,7 @@
 
 ## Subject
 
-Create Laser screen shooting using Unity and OpenCV 
+OpenCV와 Unity를 이용한 레이저 스크린사격 
 
 ## Summary
 
