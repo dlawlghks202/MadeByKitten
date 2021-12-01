@@ -4,8 +4,8 @@ Team - MadeByKitten
 # Create Laser screen shooting using Unity and OpenCV 
 
 
-### Tech Stack
-#### Techs that I`ve used at least once &nbsp;
+## Tech Stack
+Techs that I`ve used at least once &nbsp;
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
