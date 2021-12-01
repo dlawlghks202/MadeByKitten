@@ -4,14 +4,6 @@ Team - MadeByKitten
 # Create Laser screen shooting using Unity and OpenCV 
 
 
-## Tech Stack
-Techs that I`ve used at least once &nbsp;
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
-
 
 ## Summary
 
@@ -22,6 +14,14 @@ Techs that I`ve used at least once &nbsp;
 - 필요성 : 실내에서 즐길 수 있는 콘텐츠를 만들어 보고자 함
 
 - 기대효과 : 사격 시뮬레이터를 만들어 실내에서 즐길 수 있음
+
+## Tech Stack &nbsp;
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+
 
 ## Contents
 
