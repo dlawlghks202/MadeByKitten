@@ -3,7 +3,6 @@ Team - MadeByKitten
 
 # Create Laser screen shooting using Unity and OpenCV 
 
-------
 
 ## Summary
 
