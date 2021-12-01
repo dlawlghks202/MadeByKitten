@@ -1,8 +1,9 @@
-# Hallym University Capstone Design 
-Team - MadeByKitten
+# Hallym University Capstone Design - MadeByKitten
+캡스톤디자인 - 고양이가만듦
 
-# Create Laser screen shooting using Unity and OpenCV 
+## Subject
 
+Create Laser screen shooting using Unity and OpenCV 
 
 ## Summary
 
