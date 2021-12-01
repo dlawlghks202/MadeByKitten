@@ -5,7 +5,7 @@ Team - MadeByKitten
 
 
 ### Tech Stack
-####Techs that I`ve used at least once&nbsp;
+#### Techs that I`ve used at least once &nbsp;
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -15,7 +15,8 @@ Team - MadeByKitten
 
 ## Summary
 
--  계획 : 총에서 레이저를 발사하여, OpenCV를 통해 좌표 값을 Unity 게임 내로 반환하여 해당 좌표가 일치할 시, 과녁을 쓰러트려 
+-  계획 : 총에서 레이저를 발사하여, OpenCV를 통해 좌표 값을 Unity 게임 내로 반환하여 해당 좌표가 일치할 시,
+  과녁을 쓰러트려 
 점수를 획득하는 방식
 
 - 필요성 : 실내에서 즐길 수 있는 콘텐츠를 만들어 보고자 함
